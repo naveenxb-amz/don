@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="webtechiesSuite">
+	<test name="webtechiesTest">
+		<classes>
+			<class name="com.webtechies.test.DummyClass"></class>
+			<class name="com.webtechies.test.DummyClass2"></class>
+		</classes>
+	</test>
+</suite>
