@@ -52,6 +52,10 @@ public class BaseClass {
 		} else {
 			throw new IllegalArgumentException("Browser Not Supported :" + browser);
 		}
+		
+		
+		
+		
 	}
 
 //configure browser setting Like maximize and navigate
