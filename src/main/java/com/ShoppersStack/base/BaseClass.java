@@ -66,6 +66,9 @@ public class BaseClass {
 
 		// maximize the diver
 		driver.manage().window().maximize();
+		
+		
+		
 
 		// Naviagte url
 		try {
